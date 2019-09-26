@@ -1,0 +1,2 @@
+# ContCentricECM
+ContCentric is an exclusively Alfresco focused company with a mission to resolve enterprise content challenges of our clients. The team at ContCentric is well-versed in Alfresco and is lead by an Alfresco veteran with more than a decade of large-scale development and implementation experience. At ContCentric, we aim to have a 100% Alfresco certified staff and be well-trained to deliver Alfresco projects with the utmost client satisfaction. 
